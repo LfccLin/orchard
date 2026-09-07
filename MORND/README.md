@@ -51,4 +51,4 @@ ASTER GDEM should be cited according to the version actually used. For a clean r
 
 ## Important limitation
 
-The current build uses an ASTER GDEM working raster obtained through the Geospatial Data Cloud. Its platform terms may restrict redistribution of the raster itself. Consequently, MORND does not copy the source DEM GeoTIFF. Before depositing a fully redistributable raster, rebuild the same study-area subset from ASTER GDEM V3 downloaded directly from NASA Earthdata.
+The current build uses an ASTER GDEM working raster obtained through the Geospatial Data Cloud. Its platform terms may restrict redistribution of the raster itself. Consequently, MORND does not copy the source DEM GeoTIFF. Before depositing a fully redistributable raster, rebuild the same study-area subset from ASTER GDEM V3 downloaded directly from NASA Earthdata.(area 99.05805588°E–99.07447100°E and 24.24183348°N–24.25885937°N ,center: 99.06626344°E, 24.25034643°N)
