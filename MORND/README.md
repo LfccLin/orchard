@@ -28,9 +28,6 @@ MORND is a research-reference dataset for locating and examining mountain-orchar
 
 - Main roads: `MORND-MAJ-001` to `MORND-MAJ-009` (`M001`–`M009` on the map).
 - Field roads: `MORND-FLD-001` to `MORND-FLD-336` (`F001`–`F336` on the map).
-- Manuscript Road A maps to `MORND-MAJ-002`.
-- Manuscript Road B maps to `MORND-FLD-301`.
-- Manuscript Road C maps to `MORND-FLD-014`.
 
 ## Coordinate and elevation reference
 
