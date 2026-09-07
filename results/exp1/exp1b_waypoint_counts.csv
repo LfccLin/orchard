@@ -1,0 +1,10 @@
+Road,Method,WaypointCount,ConstraintFeasible,MinimumAdjacentOverlap_pct,TotalRoadCoverage_pct,ReductionVsRoadAligned_pct
+Road A,Fixed orientation,240,1,86.5011452794107,100,NaN
+Road A,Road aligned,121,1,82.9953418939011,100,NaN
+Road A,Proposed adaptive,63,1,80.076642587475,100,47.9338842975207
+Road B,Fixed orientation,240,1,84.4611684937229,100,NaN
+Road B,Road aligned,241,1,83.8345019017663,100,NaN
+Road B,Proposed adaptive,65,1,80.2985685265903,99.9999999999999,73.0290456431535
+Road C,Fixed orientation,123,1,81.675938793593,99.9999999999999,NaN
+Road C,Road aligned,121,1,84.4824659428649,99.9999999999999,NaN
+Road C,Proposed adaptive,62,1,80.0674598304214,99.9999999999999,48.7603305785124

@@ -1,0 +1,2 @@
+RoadA,RoadB,EndpointAType,EndpointBType,HorizontalSeparation_m,MinimumDirectClearance_m,RequiredClearance_m,DirectCollisionDepth_m,RaisedMinimumClearance_m,DetourMinimumClearance_m,DirectLength3D_m,RaisedLength3D_m,DetourLength3D_m,RaisedClimb_m,DetourClimb_m,RaisedPeakAltitude_m,DetourPeakAltitude_m,PeakAltitudeReduction_m
+F005_S005000,M008_S005000,end,start,890.85036250155,-8.61489847623864,25,8.61489847623864,25,25.1408499230319,890.949453630261,959.273461677382,1010.84851843123,40.8553541251601,13.2876090744883,933.145423001859,905.577677951187,27.5677450506719

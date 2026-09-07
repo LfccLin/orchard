@@ -1,0 +1,4 @@
+RouteID,SelectionType,SourceLayer,FeatureID,Length_m,ElevationRange_m,AbsGradeP95_percent,TotalAbsoluteTurn_deg,PointCount
+A,Main road,Major,2,500,46.77764161672,17.0892208311403,656.192741820039,251
+B,High curvature,Minor,301,500,34.5146163708974,21.0120724050677,868.318196200331,251
+C,High relief,Minor,14,500,35.6510528555946,11.0834476277984,409.668007774686,251

@@ -1,0 +1,2 @@
+road_count,major_road_count,field_road_count,vertex_count,total_horizontal_length_m,removed_consecutive_duplicates,invalid_road_count,minimum_dem_valid_fraction,missing_raw_elevation_count,unique_road_id_count
+345,9,336,36552,72066.625004179,51,0,0.777777777777778,67,345

@@ -1,0 +1,15 @@
+Parameter,Value,Basis,Reference
+routeLength,"500 m",Experiment-1 fixed setting,run_exp1.m
+centerlineSpacing,"2 m",Experiment-1 fixed setting,run_exp1.m
+cameraDistance,"30 m",Experiment-1 fixed setting,run_exp1.m
+fovAlong/fovAcross,"73.68/53.08 deg",Experiment-1 fixed setting,run_exp1.m
+minimumOverlap,"0.8",Experiment-1 fixed setting,run_exp1.m
+photographySpeed,"4 m/s",DJI Terra official route-planning example,DJI Terra User Manual v3.5
+terrainClearance,"20 m",Scenario safety setting,This study
+demErrorMargin,"5 m",Explicit DEM/model margin,This study
+graphSpacing,"20/20 m",DEM-resolution discretization,Measured DEM (~10 m cells)
+edgeSampleSpacing,"5 m",Half DEM cell size,Measured DEM (~10 m cells)
+powerModel,"Gong et al. 3-D steady-flight model",Peer-reviewed model,doi:10.1109/TAES.2023.3288846
+energyParameters,"Gong et al. (2023), Table I and Sec. IV-D",Peer-reviewed parameter set,doi:10.1109/TAES.2023.3288846
+transferSpeedLimits,"15/6/3 m/s (horizontal/ascent/descent)",Peer-reviewed model range,doi:10.1109/TAES.2023.3288846
+GAEvaluationBudget,"9060",Equal solver budget,This study
