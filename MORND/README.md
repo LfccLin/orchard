@@ -17,8 +17,7 @@ MORND is a research-reference dataset for locating and examining mountain-orchar
 - `data/mornd_road_index.csv`: compact road-ID-to-coordinate lookup table with direct Google Maps lookup URLs.
 - `data/mornd_roads_processed.*`: cleaned and 2 m resampled two-dimensional Shapefile in EPSG:4542.
 - `data/mornd_roads.mat`: MATLAB representation of the processed tables and geometries.
-- `figures/mornd_road_id_map.png`: static road-identifier reference map with source attribution.
-- `figures/mornd_road_id_map_preview.jpg`: smaller preview of the same attributed map.
+- `figures/mornd_road_id_map.jpg`: static road-identifier reference map with source attribution.
 - `metadata/data_dictionary.md`: field definitions and units.
 - `metadata/provenance.md`: source and processing provenance.
 - `qa/qa_summary.csv` and `qa/validation_report.md`: compact data-quality evidence.
